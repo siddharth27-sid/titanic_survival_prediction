@@ -1,0 +1,10 @@
+for this project, you will need the following Python packages:
+pandas
+numpy
+scikit-learn
+  *  train_test_split
+  *  LogisticRegression
+  *  DecisionTreeClassifier
+  *  RandomForestClassifier
+  *  KNeighborsClassifier
+  *  metrics
